@@ -1,8 +1,8 @@
-# Free-VPN
+# Free-Proxy
 
-这里不定时会更新免费 VPN，速度比较稳定，先到先得，流量用完后记得及时使用新的免费 VPN，觉得好用就请奉献一个 Star 吧。
+这里不定时会更新免费代理，速度比较稳定，先到先得，流量用完后记得及时使用新的免费代理，觉得好用就请奉献一个 Star 吧。
 
-Here are free VPNs updated intermittently, with relatively stable speeds, first come first served, remember to use a new free VPN in time after the traffic is used up, if you find it useful, please give it a Star.
+Here are free proxies updated intermittently, with relatively stable speeds, first come first served, remember to use a new free proxy in time after the traffic is used up, if you find it useful, please give it a Star.
 
 推荐代理软件：https://github.com/Clash-Verge-rev/clash-verge-rev/releases
 
