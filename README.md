@@ -1,4 +1,4 @@
-# Free-Proxy
+# Free-Proxy-2
 
 这里不定时会更新免费代理，速度比较稳定，先到先得，流量用完后记得及时使用新的免费代理，觉得好用就请奉献一个 Star 吧。
 
@@ -24,3 +24,20 @@ Recommended proxy software: https://github.com/Clash-Verge-rev/clash-verge-rev/r
 - https://node.freeclashnode.com/uploads/2025/05/4-20250526.yaml
 - https://dlconf.clashapps.cc/yaml/db3ef71c-5788-312a-f0ff-c300c5f5879f.yaml
 - http://clashstair.cczzuu.top/node/20250526-clash.yaml
+
+### 2025.05.27
+
+- https://free-ssr-clash.github.io/uploads/2025/05/0-20250527.yaml
+- https://free-ssr-clash.github.io/uploads/2025/05/1-20250527.yaml
+- https://free-ssr-clash.github.io/uploads/2025/05/2-20250527.yaml
+- https://free-ssr-clash.github.io/uploads/2025/05/3-20250527.yaml
+- https://free-ssr-clash.github.io/uploads/2025/05/4-20250527.yaml
+- https://v2rayshare.githubrowcontent.com/2025/05/20250527.yaml
+- https://clashagent.github.io/uploads/2025/05/1-20250527.yaml
+- https://clashagent.github.io/uploads/2025/05/2-20250527.yaml
+- https://clashagent.github.io/uploads/2025/05/4-20250527.yaml
+- https://node.freeclashnode.com/uploads/2025/05/0-20250527.yaml
+- https://node.freeclashnode.com/uploads/2025/05/1-20250527.yaml
+- https://node.freeclashnode.com/uploads/2025/05/2-20250527.yaml
+- https://node.freeclashnode.com/uploads/2025/05/3-20250527.yaml
+- https://node.freeclashnode.com/uploads/2025/05/4-20250527.yaml
